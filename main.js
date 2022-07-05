@@ -158,9 +158,3 @@ document.addEventListener('DOMContentLoaded', () => {
 const carouselInterval = setInterval(() => {
 	nextPic();
 }, 8000);
-
-
-/*
-	- Cambiar el estilado de carrusel
-	a uno que pegue con la pagina
-*/
